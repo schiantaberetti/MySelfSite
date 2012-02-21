@@ -1,0 +1,22 @@
+body {
+	background-color: #CFCFCF;
+	font-family: sans-serif;
+}
+h1 {
+	text-align:center;
+	color: #FFFFFF;
+}
+h3 {
+	font-size: 5em;
+	text-align:center;
+	color:#EFEFEF;
+	font-family: monospace;
+	border-bottom: 6px solid;
+}
+h2,i {
+	color: #FFFFFF;
+}
+h2,p {
+	margin-left: 150px;
+	margin-right: 150px;
+}
